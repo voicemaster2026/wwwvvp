@@ -17,3 +17,7 @@ The header and footer use the official VoiceVision wordmark copied from
 source revision `47a5817fba6e6a5c5840b687b5a46e296447d598`). The source image is
 preserved unchanged; CSS applies a monochrome filter for contrast on the light
 site background.
+
+The matching official app mark is included as `assets/voicevision-icon.png` and
+used as the website favicon. The Omarchy desktop launcher points to a local copy
+of this same icon at `~/.local/share/icons/voicevision-platform.png`.
