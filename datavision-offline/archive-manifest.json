@@ -1,0 +1,58 @@
+{
+  "source": "https://www.datavision.software",
+  "captured_at": "2026-10-26",
+  "first_party_pages": 82,
+  "cdn_assets": 1289,
+  "cdn_asset_errors": 11,
+  "asset_errors_sample": [
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.c472a333.chunk.min.css.map*/",
+      "error": "403 Client Error: Forbidden for url: https://static.parastorage.com/services/wix-thunderbolt/dist/group_7.c472a333.chunk.min.css.map*/"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/66ed32a6-d63b-4f2e-9895-91f58fc7bde6/v1/open",
+      "error": "404 Client Error: Not Found for url: https://static.parastorage.com/fonts/v2/66ed32a6-d63b-4f2e-9895-91f58fc7bde6/v1/open"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/Repeater_FixedColumns.17a84fdd.chunk.min.css.map*/",
+      "error": "403 Client Error: Forbidden for url: https://static.parastorage.com/services/wix-thunderbolt/dist/Repeater_FixedColumns.17a84fdd.chunk.min.css.map*/"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/",
+      "error": "403 Client Error: Forbidden for url: https://static.parastorage.com/services/wix-thunderbolt/dist/"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.d1b87f2e.min.css.map*/",
+      "error": "403 Client Error: Forbidden for url: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.d1b87f2e.min.css.map*/"
+    },
+    {
+      "url": "https://static.parastorage.com/services/wix-thunderbolt/dist/main.d189c0b1.min.css.map*/",
+      "error": "403 Client Error: Forbidden for url: https://static.parastorage.com/services/wix-thunderbolt/dist/main.d189c0b1.min.css.map*/"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e3af1b1e-e84c-47bd-96ed-ea490697a5d3/v1/open",
+      "error": "404 Client Error: Not Found for url: https://static.parastorage.com/fonts/v2/e3af1b1e-e84c-47bd-96ed-ea490697a5d3/v1/open"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/e59e6f5c-7ac5-47cf-8fe5-22ee5f11aa42/v1/open",
+      "error": "404 Client Error: Not Found for url: https://static.parastorage.com/fonts/v2/e59e6f5c-7ac5-47cf-8fe5-22ee5f11aa42/v1/open"
+    },
+    {
+      "url": "https://static.wixstatic.com/media/",
+      "error": "403 Client Error: Forbidden for url: https://static.wixstatic.com/media/"
+    },
+    {
+      "url": "https://static.parastorage.com/fonts/v2/09e37a90-97bc-4292-863a-a9e5b278309d/v1/open",
+      "error": "404 Client Error: Not Found for url: https://static.parastorage.com/fonts/v2/09e37a90-97bc-4292-863a-a9e5b278309d/v1/open"
+    },
+    {
+      "url": "https://static.wixstatic.com/",
+      "error": "403 Client Error: Forbidden for url: https://static.wixstatic.com/"
+    }
+  ],
+  "html_pages": 82,
+  "downloaded_files": 1381,
+  "archive_home": "index.html",
+  "first_party_resources": 6,
+  "preconnect_hints_removed_for_offline_use": 0
+}

@@ -42,3 +42,8 @@ Navigace vede na samostatné stránky [Platforma](platforma/), [Studio](studio/)
 ovladatelné myší, klávesnicí i na mobilu. Technická tvrzení na stránkách vycházejí
 z dokumentace repozitáře VVP; rozsah jednotlivých adaptérů a jejich ověření se
 může lišit.
+
+
+## Offline reference archive
+
+The complete locally navigable DataVision Software site copy is in [`datavision-offline/`](datavision-offline/), including nested pages, blog posts, media variants, fonts and linked files. Open its `index.html` directly or use the footer link on the VVP pages. The copy is attributed to DataVision Software and kept as a separate design reference. Some live/server-backed widgets still require the original site.
