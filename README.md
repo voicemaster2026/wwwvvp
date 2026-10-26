@@ -33,3 +33,12 @@ sections. Copy and product details describe VoiceVision Platform.
 The hero uses an original generated industrial machine-vision scene. The feature
 cards use the VoiceVisionUnited Studio screenshot and device inspection scenes
 from the local VoiceVision project repositories, optimized as JPEGs for web use.
+
+## Struktura webu
+
+Navigace vede na samostatné stránky [Platforma](platforma/), [Studio](studio/),
+[Runtime a CLI](runtime/), [Řešení](reseni/), [Integrace](integrace/),
+[Dokumentace](dokumentace/) a [Projekt](projekt/). Rozbalovací nabídky jsou
+ovladatelné myší, klávesnicí i na mobilu. Technická tvrzení na stránkách vycházejí
+z dokumentace repozitáře VVP; rozsah jednotlivých adaptérů a jejich ověření se
+může lišit.
