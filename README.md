@@ -21,3 +21,10 @@ site background.
 The matching official app mark is included as `assets/voicevision-icon.png` and
 used as the website favicon. The Omarchy desktop launcher points to a local copy
 of this same icon at `~/.local/share/icons/voicevision-platform.png`.
+
+## Visual direction
+
+The page structure and visual styling are adapted from
+[DataVision Software](https://www.datavision.software/): a black hero with a
+large two-column introduction, cyan calls to action, and light editorial content
+sections. Copy and product details describe VoiceVision Platform.
