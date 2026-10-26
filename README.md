@@ -1,6 +1,6 @@
-# VoiceVision United — website
+# VoiceVision Platform website
 
-Responsive one-page presentation for VoiceVision Platform, built with plain HTML and CSS.
+Responsive Czech-language presentation of VoiceVision Platform (VVP), built with plain HTML and CSS.
 
 ## Preview
 
@@ -8,4 +8,4 @@ Open `index.html` in a browser or serve this directory with any static web serve
 
 ## Content
 
-The page introduces the VoiceVision Platform as an industrial vision workspace for images, machine-vision devices, and human-guided workflows. Product statements are based on the local VoiceVision Platform project overview.
+The site describes VVP as a machine-vision workspace that brings together Studio, a shared runtime, command interface, and device adapters. Product statements are based on the VoiceVision Platform repository and its project overview.
