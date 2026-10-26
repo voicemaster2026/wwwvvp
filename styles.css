@@ -79,3 +79,22 @@ nav{gap:32px;color:#f3f4f6;font-weight:700;font-size:12px;text-transform:upperca
 @media(max-width:600px){.topbar{height:70px;padding:0 18px}.topbar nav{top:69px}.topbar .brand-logo{width:115px}.topbar .brand{gap:8px}.topbar .brand-divider{height:20px}.topbar .brand-platform{font-size:7px}.topbar .nav-cta{display:none}.subhero{padding:57px 22px 48px;gap:28px}.subhero h1{font-size:47px;letter-spacing:-1.8px;margin:21px 0}.subhero .lead{font-size:15px}.subhero-visual{height:345px}.subsection{padding:62px 22px}.subsection h2,.sub-cta h2{font-size:38px}.detail-cards{grid-template-columns:1fr;gap:6px;margin-top:25px}.detail-card{min-height:0;padding:20px 0}.detail-card h3{margin:16px 0 9px}.detail-card p{margin-bottom:17px}.image-story img{min-height:230px}.story-copy p,.wide-copy{font-size:15px}.process-row{display:grid;grid-template-columns:1fr;gap:10px;padding:18px}.process-row b{transform:rotate(90deg);justify-self:start;margin-left:10px}.sub-cta{display:block;padding:48px 22px}.sub-cta>.button{margin-top:18px}.site-footer{padding:23px 22px}.site-footer .brand{width:100%}.footer-links{gap:16px 22px}.site-footer>span{font-size:9px}}
 .nav-home{font-size:11px;letter-spacing:.7px;color:#f3f4f6;font-weight:700;text-transform:uppercase;white-space:nowrap}.nav-home:hover,.nav-parent:hover{color:#8adce8}
 @media(max-width:850px){.topbar nav .nav-home{padding:16px 8px;border-bottom:1px solid #182329;font-size:11px}}
+
+/* Editorial detail pages: clear rhythm, readable hierarchy and visible focus. */
+.inner-page .subhero{min-height:620px}
+.inner-page .subhero h1 em{font-style:normal;color:#8adce8}
+.inner-page .subsection h2 em{color:#2996a5}
+.inner-page .detail-card{border-top:1px solid #cbd0d8;transition:border-color .2s,transform .2s}
+.inner-page .detail-card:hover{border-color:#39a9b7;transform:translateY(-3px)}
+.inner-page .detail-card a span{color:#2996a5;margin-left:6px}
+.inner-page .image-story{background:#f0f0f6}
+.inner-page .image-story img{min-height:320px;object-fit:cover}
+.inner-page .story-copy h2{max-width:620px}
+.inner-page .story-copy p+p{margin-top:14px}
+.process-section{background:#fff}
+.process-row{flex-wrap:wrap;row-gap:12px}
+.process-row span{display:inline-flex;align-items:center;min-height:38px}
+.topbar nav a[aria-current="page"]{color:#8adce8}
+a:focus-visible,button:focus-visible{outline:2px solid #83d9e6;outline-offset:4px}
+@media(max-width:850px){.inner-page .subhero{min-height:0}.inner-page .image-story img{min-height:0;height:360px}}
+@media(max-width:600px){.inner-page .image-story img{height:245px}.process-row span{font-size:12px}}
